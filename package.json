@@ -59,7 +59,7 @@
     "lodash.isequalwith": "^4.4.0",
     "lodash.shuffle": "^4.2.0",
     "mocha": "^6.1.4",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^8.0.1",
     "prettier": "^1.17.0",
     "rc-slider": "^8.5.0",
     "react": "^16.0.0",
